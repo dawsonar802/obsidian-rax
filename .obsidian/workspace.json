@@ -18,29 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e7a3ce34de6915a1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "3d367d8a4f9cd08b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOps/Self Hosted Agents - VMSS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/Self Hosted Agents - VMSS.md"
+                "file": "DevOps/ADO - Helpful Links.md"
               }
             }
           },
@@ -116,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/Self Hosted Agents - VMSS.md",
+                "file": "DevOps/ADO - Helpful Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/Self Hosted Agents - VMSS.md",
+                "file": "DevOps/ADO - Helpful Links.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -199,8 +178,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3d367d8a4f9cd08b",
+  "active": "3826d0c1bd746525",
   "lastOpenFiles": [
+    "DevOps/Self Hosted Agents - VMSS.md",
     "DevOps/Sem Ver - Conditional Commits - Icons.md",
     "DevOps/ADO - Helpful Links.md",
     "IaC-Automation/Packer/Packer Images - HCL and PowerShell.md",
@@ -209,7 +189,6 @@
     "IaC-Automation/Terraform/AVD - Terraform Deployment.md",
     "templates/Dodge Sync Meeting.md",
     "Untitled.md",
-    "templates/Daily Notes.md",
-    "templates/A Generic Meeting - Choose Folder.md"
+    "templates/Daily Notes.md"
   ]
 }

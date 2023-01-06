@@ -17,4 +17,9 @@ Azure virtual machine scale set agents, hereafter referred to as scale set agent
 # Setup (basic)
 1. Provision a VMSS instance in Azure
 2. Complete the outlined steps for setting up the pool [here](https://learn.microsoft.com/en-us/azure/devops/pipelines/agents/scale-set-agents?view=azure-devops#create-the-scale-set-agent-pool)
-3. 
+
+# Setup (advanced)
+1. The following can be used to setup the VMSS instance through Terraform 
+```ad-info
+https://medium.com/microsoftazure/custom-azure-vm-scale-sets-with-terraform-and-cloud-init-6a592dc41523
+```
