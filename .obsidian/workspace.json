@@ -26,9 +26,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "3d367d8a4f9cd08b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/Self Hosted Agents - VMSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DevOps/Self Hosted Agents - VMSS.md"
+              }
             }
           },
           {
@@ -102,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DevOps/Self Hosted Agents - VMSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DevOps/Self Hosted Agents - VMSS.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +199,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7a3ce34de6915a1",
+  "active": "3d367d8a4f9cd08b",
   "lastOpenFiles": [
     "DevOps/Sem Ver - Conditional Commits - Icons.md",
     "DevOps/ADO - Helpful Links.md",
