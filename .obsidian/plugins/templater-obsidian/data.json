@@ -15,8 +15,12 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "IaC-Automation",
+      "template": "templates/Generic.md"
+    },
+    {
+      "folder": "DevOps",
+      "template": "templates/Generic.md"
     }
   ],
   "syntax_highlighting": true,

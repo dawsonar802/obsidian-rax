@@ -1,0 +1,28 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "SiAzuredevops",
+      "SiPacker",
+      "SiPowershell",
+      "FasCode",
+      "SiTerraform"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    }
+  },
+  "IaC-Automation": "FasCode",
+  "IaC-Automation/Terraform": "SiTerraform",
+  "IaC-Automation/PowerShell": "SiPowershell",
+  "IaC-Automation/Packer": "SiPacker",
+  "DevOps": "SiAzuredevops"
+}

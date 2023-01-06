@@ -4,22 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "d2a74370190d7a05",
+        "id": "9ad621d18b1b3665",
         "type": "tabs",
         "children": [
           {
-            "id": "5b127243a2574d17",
+            "id": "3826d0c1bd746525",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/ADO - Helpful Links.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "5b5d34d1316f499b",
+            "id": "e7a3ce34de6915a1",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -137,9 +141,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "c24e413d59a4c905",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
         "id": "ccc74f678a67b7e9",
@@ -171,17 +183,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5b5d34d1316f499b",
+  "active": "e7a3ce34de6915a1",
   "lastOpenFiles": [
-    "README.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "templates/Dodge Sub Project.md",
-    "templates/Dodge Project Meeting.md",
-    "templates/Dodge New Project.md",
+    "DevOps/Sem Ver - Conditional Commits - Icons.md",
+    "DevOps/ADO - Helpful Links.md",
+    "IaC-Automation/Packer/Packer Images - HCL and PowerShell.md",
+    "templates/Generic.md",
+    "Untitled.canvas",
+    "IaC-Automation/Terraform/AVD - Terraform Deployment.md",
     "templates/Dodge Sync Meeting.md",
-    "Daily Notes/2023/01/06-Friday.md",
-    "Attachments/Pasted image 20230106082711.png",
-    "Attachments/meeting-2023-01-06 - Friday Sync.png"
+    "Untitled.md",
+    "templates/Daily Notes.md",
+    "templates/A Generic Meeting - Choose Folder.md"
   ]
 }
