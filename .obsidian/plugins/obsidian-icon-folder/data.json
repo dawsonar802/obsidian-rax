@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FarStar",
       "SiAzuredevops",
       "SiPacker",
       "SiPowershell",
-      "FasCode",
-      "SiTerraform"
+      "FasCode"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -24,5 +24,6 @@
   "IaC-Automation/Terraform": "SiTerraform",
   "IaC-Automation/PowerShell": "SiPowershell",
   "IaC-Automation/Packer": "SiPacker",
-  "DevOps": "SiAzuredevops"
+  "DevOps": "SiAzuredevops",
+  "Dodge": "FarStar"
 }
