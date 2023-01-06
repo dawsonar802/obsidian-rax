@@ -2,7 +2,7 @@
 let today = tp.date.now("YYYY-MM-DD")
 let day = moment(tp.date.now("YYYY-MM-DD")).format('dddd')
 let title = tp.file.title
-fileName = today + " - " + day + " " + "Sync"
+fileName = today + "-" + day + "-" + "Sync"
 await tp.file.move("/Dodge/Meetings/" + tp.date.now("YYYY") + "/" + tp.date.now("MM") + "-" + tp.date.now("MMMM") + "/" + tp.file.title)
 await tp.file.rename(fileName)
 -%>
@@ -10,6 +10,7 @@ await tp.file.rename(fileName)
 type: meeting
 created: <% tp.file.creation_date() %>
 date: <% tp.date.now("YYYY-MM-DD")  %>
+imageNameKey: meeting-
 tags: Dodge/Meeting/Sync
      todo/meetings/dodge_sync
 ---

@@ -20,6 +20,7 @@ const project_lower = project_clean1.toLowerCase()
 type: project_meeting
 created: <% tp.file.creation_date() %>
 date: <% tp.date.now("YYYY-MM-DD") %>
+imageNameKey: project-<% project %>-<% tp.date.now("YYYY-MM") %>-
 tags: Dodge/Meeting/Project
       todo/projects/<% project_lower %>
 project: <% project %>
