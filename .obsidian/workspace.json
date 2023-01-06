@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "f4c0ef79d8cfa614",
+        "id": "0289818f3d0d2592",
         "type": "tabs",
         "children": [
           {
-            "id": "2beaa41be42abbda",
+            "id": "4eb5a6b8a4360021",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -76,6 +76,14 @@
         "type": "tabs",
         "children": [
           {
+            "id": "8a0a8b4afeb4133b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
             "id": "a436572da15e6cb0",
             "type": "leaf",
             "state": {
@@ -97,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "linksCollapsed": false,
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -114,10 +122,25 @@
             }
           },
           {
-            "id": "8a0a8b4afeb4133b",
+            "id": "eb3d0f6e6164908e",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "ccc74f678a67b7e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebf51da387f4c4ae",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
               "state": {}
             }
           }
@@ -125,8 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -135,9 +157,22 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2beaa41be42abbda",
-  "lastOpenFiles": []
+  "active": "4eb5a6b8a4360021",
+  "lastOpenFiles": [
+    "Dodge/Projects/AVD.md",
+    "Dodge/Project Meetings/AVD/2023-01-06 - Working Session - AVD Kickoff.md",
+    "templates/Dodge New Project.md",
+    "templates/Dodge Project Meeting.md",
+    "Dodge/Projects/test meeting.md",
+    "templates/Dodge Sub Project.md",
+    "Daily Notes/2023/01/06-Friday.md",
+    "templates/Daily Notes.md",
+    "templates/template.md",
+    "templates/Generic.md"
+  ]
 }

@@ -1,0 +1,20 @@
+{
+  "customFolder": "Day Planners",
+  "mode": 1,
+  "mermaid": false,
+  "notesToDates": [
+    {
+      "notePath": "planner/template.md",
+      "date": "Wed Jan 04 2023"
+    },
+    {
+      "notePath": "Daily Notes/2023/01/06-Friday.md",
+      "date": "Fri Jan 06 2023"
+    }
+  ],
+  "completePastItems": true,
+  "circularProgress": false,
+  "nowAndNextInStatusBar": false,
+  "showTaskNotification": false,
+  "timelineZoomLevel": 4
+}
