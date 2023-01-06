@@ -3,7 +3,7 @@
     "migrated": true,
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
     "fontSize": 16,
-    "iconColor": null,
+    "iconColor": "#5f95bf",
     "recentlyUsedIcons": [
       "FasPerson",
       "FasPaperclip",
