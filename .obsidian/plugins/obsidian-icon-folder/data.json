@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FarStar",
-      "SiAzuredevops",
-      "SiPacker",
-      "SiPowershell",
-      "FasCode"
+      "FasPerson",
+      "FasPaperclip",
+      "FarNoteSticky",
+      "🧑‍💼",
+      "FarStar"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -25,5 +25,9 @@
   "IaC-Automation/PowerShell": "SiPowershell",
   "IaC-Automation/Packer": "SiPacker",
   "DevOps": "SiAzuredevops",
-  "Dodge": "FarStar"
+  "Dodge": "FarStar",
+  "Rackspace": "🧑‍💼",
+  "Daily Notes": "FarNoteSticky",
+  "Attachments": "FasPaperclip",
+  "Personal": "FasPerson"
 }
