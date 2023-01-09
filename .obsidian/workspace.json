@@ -11,8 +11,12 @@
             "id": "f374fa6d365f4768",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "templates/Dodge Sync Meeting.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -80,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "templates/Dodge Sync Meeting.md"
+              }
             }
           },
           {
@@ -89,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "templates/Dodge Sync Meeting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "templates/Dodge Sync Meeting.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -170,8 +178,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f374fa6d365f4768",
+  "active": "1aa1b68f5c2a4dec",
   "lastOpenFiles": [
+    "Dodge/Meetings/2023/01-January/2023-01-09-Monday-Sync.md",
     "IaC-Automation/Terraform/AVD - Terraform Deployment.md",
     "IaC-Automation/Packer/Packer Images - HCL and PowerShell.md",
     "Rackspace/Daily Status Updates - Template.md",
@@ -180,7 +189,6 @@
     "DevOps/Sem Ver - Conditional Commits - Icons.md",
     "templates/Generic.md",
     "Untitled.canvas",
-    "templates/Dodge Sync Meeting.md",
-    "Untitled.md"
+    "templates/Dodge Sync Meeting.md"
   ]
 }
