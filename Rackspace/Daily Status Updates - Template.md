@@ -1,13 +1,12 @@
 
 #template #communication #message 
 
-# Template
 
+```
 # Last working day  
 Task ID: Task Summary  
-          -Status and some quick details
+  - Status and some quick details
 
-  
 # Today  
 Task ID: Task Summary  
 Daily Hours:  Good/Not Good  
@@ -16,7 +15,7 @@ Daily Hours:  Good/Not Good
 # Blockers  
 Task ID:  Ran into and issue with such and such, reason for block. If customer block, or something on our end.
 
-# Daily Hours: 
-
 # Notes:  
 -    Any person-specific items that need called out.
+```
+
