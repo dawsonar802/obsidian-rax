@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/ADO - Helpful Links.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6229fe2b7b12b40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IaC-Automation/Terraform/AVD - Terraform Deployment.md",
+                "file": "Rackspace/Daily Status Updates - Template.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IaC-Automation/Terraform/AVD - Terraform Deployment.md"
+                "file": "Rackspace/Daily Status Updates - Template.md"
               }
             }
           },
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IaC-Automation/Terraform/AVD - Terraform Deployment.md",
+                "file": "Rackspace/Daily Status Updates - Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IaC-Automation/Terraform/AVD - Terraform Deployment.md",
+                "file": "Rackspace/Daily Status Updates - Template.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -191,16 +178,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d6229fe2b7b12b40",
+  "active": "3826d0c1bd746525",
   "lastOpenFiles": [
-    "Rackspace/Daily Status Updates - Template.md",
     "DevOps/ADO - Helpful Links.md",
+    "IaC-Automation/Terraform/AVD - Terraform Deployment.md",
+    "Rackspace/Daily Status Updates - Template.md",
     "DevOps/Self Hosted Agents - VMSS.md",
     "DevOps/Sem Ver - Conditional Commits - Icons.md",
     "IaC-Automation/Packer/Packer Images - HCL and PowerShell.md",
     "templates/Generic.md",
     "Untitled.canvas",
-    "IaC-Automation/Terraform/AVD - Terraform Deployment.md",
     "templates/Dodge Sync Meeting.md",
     "Untitled.md"
   ]
