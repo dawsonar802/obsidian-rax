@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rackspace/Daily Status Updates - Template.md",
+                "file": "IaC-Automation/Terraform/AVD - Terraform Deployment.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rackspace/Daily Status Updates - Template.md"
+                "file": "IaC-Automation/Terraform/AVD - Terraform Deployment.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rackspace/Daily Status Updates - Template.md",
+                "file": "IaC-Automation/Terraform/AVD - Terraform Deployment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rackspace/Daily Status Updates - Template.md",
+                "file": "IaC-Automation/Terraform/AVD - Terraform Deployment.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -193,6 +193,7 @@
   },
   "active": "d6229fe2b7b12b40",
   "lastOpenFiles": [
+    "Rackspace/Daily Status Updates - Template.md",
     "DevOps/ADO - Helpful Links.md",
     "DevOps/Self Hosted Agents - VMSS.md",
     "DevOps/Sem Ver - Conditional Commits - Icons.md",
@@ -201,7 +202,6 @@
     "Untitled.canvas",
     "IaC-Automation/Terraform/AVD - Terraform Deployment.md",
     "templates/Dodge Sync Meeting.md",
-    "Untitled.md",
-    "templates/Daily Notes.md"
+    "Untitled.md"
   ]
 }
