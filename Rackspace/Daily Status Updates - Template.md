@@ -19,3 +19,25 @@ Task ID:  Ran into and issue with such and such, reason for block. If customer 
 -    Any person-specific items that need called out.
 ```
 
+## Example
+
+```
+# Last working day  
+ - MSDAC-1106: Discovery - Add ADO VMSS Agent Pool Automation
+ - MSDAC-287: Pod Transition - Prep and Planning  
+ - MSDAC-385: Customer Communication and Administration (Internal meeting and Sync)
+
+# Today  
+- MSDAC-1107: Implement - VMSS ADO (NP and PRD)
+- Stand Up meeting
+- Dodge Monthly Service Review Meeting
+
+Daily Hours:  Good 
+- Since we are starting a new sprint, I think I should be good for now on hours, but will likely need to bring in something else to get some more. 
+
+# Blockers  
+n/a
+
+# Notes:  
+ - I will be OOF half day (11:00am EST) on Friday 1/13
+```
