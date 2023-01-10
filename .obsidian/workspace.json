@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rackspace/Daily Status Updates - Template.md",
+                "file": "templates/Daily Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rackspace/Daily Status Updates - Template.md"
+                "file": "templates/Daily Notes.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rackspace/Daily Status Updates - Template.md",
+                "file": "templates/Daily Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rackspace/Daily Status Updates - Template.md",
+                "file": "templates/Daily Notes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -180,11 +180,11 @@
   },
   "active": "f3fec1ca45280c1b",
   "lastOpenFiles": [
+    "Rackspace/Daily Status Updates - Template.md",
     "Dodge/Meetings/2023/01-January/2023-01-09-Monday-Sync.md",
     "templates/Dodge Sync Meeting.md",
     "IaC-Automation/Terraform/AVD - Terraform Deployment.md",
     "IaC-Automation/Packer/Packer Images - HCL and PowerShell.md",
-    "Rackspace/Daily Status Updates - Template.md",
     "DevOps/ADO - Helpful Links.md",
     "DevOps/Self Hosted Agents - VMSS.md",
     "DevOps/Sem Ver - Conditional Commits - Icons.md",
