@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rackspace/Daily Status Updates - Template.md",
+                "file": "templates/Dodge New Project.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rackspace/Daily Status Updates - Template.md"
+                "file": "templates/Dodge New Project.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rackspace/Daily Status Updates - Template.md",
+                "file": "templates/Dodge New Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rackspace/Daily Status Updates - Template.md",
+                "file": "templates/Dodge New Project.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -180,8 +180,8 @@
   },
   "active": "f3fec1ca45280c1b",
   "lastOpenFiles": [
-    "templates/Daily Notes.md",
     "Rackspace/Daily Status Updates - Template.md",
+    "templates/Daily Notes.md",
     "Dodge/Meetings/2023/01-January/2023-01-09-Monday-Sync.md",
     "templates/Dodge Sync Meeting.md",
     "IaC-Automation/Terraform/AVD - Terraform Deployment.md",
