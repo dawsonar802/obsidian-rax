@@ -53,7 +53,10 @@ https://learn.microsoft.com/en-us/azure/virtual-desktop/prerequisites#network
 - Configure AVD: https://learn.microsoft.com/en-us/azure/developer/terraform/configure-azure-virtual-desktop
 - Create Session Host: https://learn.microsoft.com/en-us/azure/developer/terraform/create-avd-session-host
 - Azure Files: https://learn.microsoft.com/en-us/azure/developer/terraform/create-avd-azure-files-storage
-- 
+
+## Profiles
+- https://learn.microsoft.com/en-us/azure/virtual-desktop/fslogix-containers-azure-files
+- https://learn.microsoft.com/en-us/azure/virtual-desktop/store-fslogix-profile
 
 ## Security 
 https://learn.microsoft.com/en-us/azure/virtual-desktop/security-guide
@@ -64,3 +67,6 @@ https://learn.microsoft.com/en-us/azure/virtual-desktop/security-guide
 If you're planning on using Azure AD only with [FSLogix Profile Container](https://learn.microsoft.com/en-us/fslogix/configure-profile-container-tutorial), you will need to [store profiles on Azure Files](https://learn.microsoft.com/en-us/azure/virtual-desktop/create-profile-container-azure-ad), which is currently in public preview. In this scenario, user accounts must be [hybrid identities](https://learn.microsoft.com/en-us/azure/active-directory/hybrid/whatis-hybrid-identity), which means you'll also need AD DS and [Azure AD Connect](https://learn.microsoft.com/en-us/azure/active-directory/hybrid/whatis-azure-ad-connect). You must create these accounts in AD DS and synchronize them to Azure AD. The service doesn't currently support environments where users are managed with Azure AD and synchronized to Azure AD DS.
 
 ```
+
+#### FAQs
+https://learn.microsoft.com/en-us/azure/virtual-desktop/faq
