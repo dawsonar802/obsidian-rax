@@ -55,6 +55,9 @@ https://learn.microsoft.com/en-us/azure/virtual-desktop/prerequisites#network
 - Azure Files: https://learn.microsoft.com/en-us/azure/developer/terraform/create-avd-azure-files-storage
 - 
 
+## Security 
+https://learn.microsoft.com/en-us/azure/virtual-desktop/security-guide
+
 ## Other
 
 ```ad-info
