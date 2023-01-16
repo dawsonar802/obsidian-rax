@@ -35,7 +35,10 @@ A workspace is a logical grouping of application groups in Azure Virtual Desktop
 https://learn.microsoft.com/en-us/azure/virtual-desktop/prerequisites
 
 ### Network
-https://learn.microsoft.com/en-us/azure/virtual-desktop/prerequisites#network
+Prereqs - https://learn.microsoft.com/en-us/azure/virtual-desktop/prerequisites#network
+URLs - https://learn.microsoft.com/en-us/azure/virtual-desktop/safe-url-list?tabs=azure
+Private Link - https://learn.microsoft.com/en-us/azure/virtual-desktop/private-link-overview
+
 
 ## Limitations
 - The user account must exist in the Azure AD tenant you use for Azure Virtual Desktop. Azure Virtual Desktop doesn't support [B2B](https://learn.microsoft.com/en-us/azure/active-directory/external-identities/what-is-b2b), [B2C](https://learn.microsoft.com/en-us/azure/active-directory-b2c/overview), or personal Microsoft accounts.
