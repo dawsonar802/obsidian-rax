@@ -11,3 +11,4 @@ Helpful guide on deploying Azure Virtual Desktop through Terraform
 https://buildvirtual.net/how-to-deploy-wvd-using-terraform/
 
 ```
+https://learn.microsoft.com/en-us/azure/developer/terraform/configure-azure-virtual-desktop
