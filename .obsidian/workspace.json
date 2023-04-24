@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "94ce216cb26a2043",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,7 +201,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d599f4b4adecf6c4",
+  "active": "94ce216cb26a2043",
   "lastOpenFiles": [
     "IaC-Automation/Terraform/AVD - Terraform Deployment.md",
     "Rackspace/Daily Status Updates - Template.md",
