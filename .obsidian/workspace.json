@@ -35,9 +35,11 @@
             "id": "94ce216cb26a2043",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.16"
+                "file": "Dodge/Discovery - Azure Virtual Desktop.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
