@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f7909299aeed2be5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -87,6 +97,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "211b76146be05461",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -203,7 +221,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "94ce216cb26a2043",
+  "active": "f7909299aeed2be5",
   "lastOpenFiles": [
     "IaC-Automation/Terraform/AVD - Terraform Deployment.md",
     "Rackspace/Daily Status Updates - Template.md",
